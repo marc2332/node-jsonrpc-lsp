@@ -1,0 +1,12 @@
+{
+	"name": "node-jsonrpc-lsp",
+	"version": "0.1.0",
+	"description": "Node JSON RPC client",
+	"main": "index.js",
+	"author": "Marc Espín Sanz <mespinsanz@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"@sourcegraph/vscode-ws-jsonrpc": "0.0.3-fork",
+		"ws": "^6.2.1"
+	}
+}
