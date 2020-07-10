@@ -1,6 +1,6 @@
 {
 	"name": "node-jsonrpc-lsp",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Node JSON RPC client",
 	"main": "index.js",
 	"author": "Marc Espín Sanz <mespinsanz@gmail.com>",
