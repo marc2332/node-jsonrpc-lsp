@@ -8,6 +8,6 @@
 	"dependencies": {
 		"@sourcegraph/vscode-ws-jsonrpc": "0.0.3-fork",
 		"lodash": "^4.17.19",
-		"ws": "^6.2.1"
+		"ws": "^7.4.6"
 	}
 }
